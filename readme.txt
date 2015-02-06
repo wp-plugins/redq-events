@@ -35,6 +35,10 @@ Which payment gateway support ?
 	- It is build with WooCommmerce so it supports every payment gateway that are supported by WooCommmerce. By default it supports payPal, Direct Bank Tranfer , and MasterCard
 
 == Screenshots ==
+screenshot-1.png
+screenshot-2.png
+screenshot-3.png
+screenshot-4.png
 
 
 == Changelog ==
